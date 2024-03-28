@@ -11,46 +11,40 @@
                     <mxGeometry x="510" y="130" width="426.36" height="320" as="geometry"/>
                 </mxCell>
                 <mxCell id="9" value="Calculate" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="7">
-                    <mxGeometry x="55" y="345" width="160" height="30" as="geometry"/>
+                    <mxGeometry x="50" y="280" width="160" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="10" value="The area of this trapezoid is:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="7">
-                    <mxGeometry y="296.08000000000004" width="270" height="40" as="geometry"/>
+                    <mxGeometry x="10" y="230.00000000000006" width="270" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="7">
-                    <mxGeometry x="105" y="205" width="120" height="20" as="geometry"/>
+                    <mxGeometry x="100" y="140" width="120" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="7">
-                    <mxGeometry x="105" y="265" width="120" height="20" as="geometry"/>
+                    <mxGeometry x="100" y="200" width="120" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="17" value="Base a:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="7">
-                    <mxGeometry x="15" y="200" width="90" height="40" as="geometry"/>
+                    <mxGeometry x="10" y="135" width="90" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="7">
-                    <mxGeometry x="105" y="235" width="120" height="20" as="geometry"/>
+                    <mxGeometry x="100" y="170" width="120" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" value="Base b:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="7">
-                    <mxGeometry x="15" y="225" width="90" height="40" as="geometry"/>
+                    <mxGeometry x="10" y="160" width="90" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" value="Height:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="7">
-                    <mxGeometry x="20" y="250" width="80" height="40" as="geometry"/>
+                    <mxGeometry x="15" y="185" width="80" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="22" value="mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="7">
-                    <mxGeometry x="215" y="225" width="60" height="40" as="geometry"/>
+                    <mxGeometry x="210" y="160" width="60" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="23" value="mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="7">
-                    <mxGeometry x="215" y="255" width="60" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="24" value="A = ( (a + b) /2) h" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;" vertex="1" parent="7">
-                    <mxGeometry x="35" y="140" width="200" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="26" value="Formula:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;" vertex="1" parent="7">
-                    <mxGeometry x="50" y="110" width="110" height="40" as="geometry"/>
+                    <mxGeometry x="210" y="190" width="60" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="27" value="Area of a trapezoid, with JS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;" vertex="1" parent="7">
                     <mxGeometry x="318" y="40" width="360" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="21" value="mm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
-                    <mxGeometry x="255" y="235" width="60" height="40" as="geometry"/>
+                    <mxGeometry x="250" y="170" width="60" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
